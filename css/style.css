@@ -1,0 +1,63 @@
+.app-wrapper {
+    width:600px;
+    height:600px;
+    border:1px solid #556B2F;
+    margin:0 auto;
+    padding:10px;
+    
+}
+/* app-view styles */
+
+.app-view-message {
+    width:100%;
+    margin-bottom: 10px;
+}
+.app-view-message_item {
+    width:100%;
+    height:40px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+/* app-list-messages styles */
+
+.app-view-list-messages {
+    width:100%;
+    height:70%;
+    border:1px solid #556B2F;
+    margin-bottom: 10px;
+}
+
+/* app-buttons styles */
+
+.app-buttons {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.app-buttons-block-text_message {
+    width:60%;
+}
+.app-buttons_enter-message_item {
+    width:100%;
+    height:40px;
+    font-size:20px;
+    box-sizing: border-box;
+}
+
+.app-buttons-block-send_message {
+    width:30%;
+}
+.app-buttons_send-message_item {
+    width:100%;
+    height:40px;
+    font-size:20px;
+}
+
+
+
+
+
+
+
