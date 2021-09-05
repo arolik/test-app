@@ -99,6 +99,20 @@ let view = new ViewMessages();
 let moveMessage = new ShowMessages();
 */
 
+/*
+getMessage() {
+        this.createList();
+        this.clearField();
+        this.setField(this.messages);
+        this.stop();
+        this.showMessage(this.messages.filter(function(elem){
+            return elem[0] != 'X';
+        }));
+        console.log(this.messages);
+    }
+
+*/
+
 
 class TestApp {
     constructor(){
