@@ -15,7 +15,7 @@
     border: 1px solid #556B2F;
     display:flex;
     flex-direction: row;
-    padding-left: 10px;
+    
 }
 .app-view-message_target {
     margin-right: 10px;
